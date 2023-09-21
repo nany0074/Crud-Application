@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Rohit Sharma",
+      "username": "rohitsharma",
+      "email": "rohit@gmail.com",
+      "phone": "343324590",
+      "id": 1
+    },
+    {
+      "name": "Nanie Bhardwaj",
+      "username": "naniehere",
+      "email": "nanybhardwaj@gmail.com",
+      "phone": "9999999999",
+      "id": 2
+    },
+    {
+      "name": "Darshan Kumar",
+      "username": "darshankumar",
+      "email": "darshankumar@gmail.com",
+      "phone": "8890990010",
+      "id": 4
+    },
+    {
+      "name": "Rudra Sharma",
+      "username": "rudrasharma",
+      "email": "rudrasharma@gmail.com",
+      "phone": "9999333301",
+      "id": 5
+    }
+  ]
+}
